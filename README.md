@@ -11,7 +11,7 @@ Our products have been applied to the industrial field by actively utilizing the
 ### 3. Area of ​​use
 This product will be used in various industrial sites and power plants where gas, fall and emergency situations are needed.
 ## How to use?
-Click this [link](https://github.com/anjongchan/sibal.wiki.git) for use
+Click this [link](https://github.com/anjongchan/Safetyhelmet/wiki/How-to-use) for use
 ## Development environment
 * Window
 * Arduino IDE
