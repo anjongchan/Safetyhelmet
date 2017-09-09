@@ -19,24 +19,14 @@ Click this [link](https://github.com/anjongchan/Safetyhelmet/wiki/How-to-use) fo
 * Spring Framework
 * Apache Tomcat
 * Oracle llg
-* C, c++, JAVA, JSP
-## Licence
-* GNU General Public License v3.0
-* GNU Lesser General Public License v3.0
-* BSD 2-Clause License
+* C, C++, JAVA, JSP
 ## Version
-* 1993 02. 22 1st version
-* 1992 02. 22 2nd version
-* 1993 02. 22 3nd version
-* 1993 02. 22 4nd version
+* 2017 . 09. 09 1.0 version 
 ## Q&A
+* Please send Q & A to anjongchan357@gmail.com
+## Developers
 * Gosan Yoon gosangosango@gmail.com
 * Soyoon Jo jokinm2003@naver.com
 * Jinhyuk Choi chlwlsgur411@naver.com
 * Jongchan An anjongcha357@gmail.com
-## Developers
-* Gosan Yoon
-* Soyoon Jo
-* Jinhyuk Choi
-* Jongchan An
 
