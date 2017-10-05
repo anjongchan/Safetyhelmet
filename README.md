@@ -28,5 +28,5 @@ Click this [link](https://github.com/anjongchan/Safetyhelmet/wiki/How-to-use) fo
 * Gosan Yoon gosangosango@gmail.com
 * Soyoon Jo jokinm2003@naver.com
 * Jinhyuk Choi chlwlsgur411@naver.com
-* Jongchan An anjongcha357@gmail.com
+* Jongchan An anjongchan357@gmail.com
 
